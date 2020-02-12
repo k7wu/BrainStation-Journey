@@ -1,0 +1,67 @@
+,,,,,,
+,A,B,C,D,E,F
+1,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+2,Hubei,Mainland China,1/31/2020 19:00,7153,249,169
+3,Zhejiang,Mainland China,1/31/2020 19:00,537,,14
+4,Guangdong,Mainland China,1/31/2020 19:00,436,,10
+5,Henan,Mainland China,1/31/2020 19:00,352,2,3
+6,Hunan,Mainland China,1/31/2020 19:00,332,,3
+7,Jiangxi,Mainland China,1/31/2020 19:00,240,,7
+8,Chongqing,Mainland China,1/31/2020 19:00,238,1,1
+9,Anhui,Mainland China,1/31/2020 19:00,237,,3
+10,Shandong,Mainland China,1/31/2020 19:00,184,,2
+11,Sichuan,Mainland China,1/31/2020 19:00,177,1,1
+12,Jiangsu,Mainland China,1/31/2020 19:00,168,,5
+13,Shanghai,Mainland China,1/31/2020 19:00,153,1,9
+14,Beijing,Mainland China,1/31/2020 19:00,139,1,5
+15,Fujian,Mainland China,1/31/2020 19:00,120,,
+16,Hebei,Mainland China,1/31/2020 19:00,96,1,
+17,Guangxi,Mainland China,1/31/2020 19:00,88,,2
+18,Shaanxi,Mainland China,1/31/2020 19:00,87,,
+19,Yunnan,Mainland China,1/31/2020 19:00,83,,1
+20,Liaoning,Mainland China,1/31/2020 19:00,60,,1
+21,Heilongjiang,Mainland China,1/31/2020 19:00,59,2,
+22,Hainan,Mainland China,1/31/2020 19:00,58,1,1
+23,Shanxi,Mainland China,1/31/2020 19:00,47,,1
+24,Gansu,Mainland China,1/31/2020 19:00,35,,
+25,Tianjin,Mainland China,1/31/2020 19:00,32,,
+26,Guizhou,Mainland China,1/31/2020 19:00,29,,2
+27,Ningxia,Mainland China,1/31/2020 19:00,21,,1
+28,Inner Mongolia,Mainland China,1/31/2020 19:00,20,,
+29,Xinjiang,Mainland China,1/31/2020 19:00,17,,
+30,Jilin,Mainland China,1/31/2020 19:00,14,,1
+31,Hong Kong,Hong Kong,1/31/2020 19:00,13,,
+32,Taiwan,Taiwan,1/31/2020 19:00,10,,
+33,Qinghai,Mainland China,1/31/2020 19:00,8,,
+34,Macau,Macau,1/31/2020 19:00,7,,
+35,Tibet,Mainland China,1/31/2020 19:00,1,,
+36,Washington,US,1/31/2020 19:00,1,,
+37,Illinois,US,1/31/2020 19:00,2,,
+38,California,US,1/31/2020 19:00,3,,
+39,Arizona,US,1/31/2020 19:00,1,,
+40,,Japan,1/31/2020 19:00,17,,1
+41,,Thailand,1/31/2020 19:00,19,,7
+42,,South Korea,1/31/2020 19:00,11,,
+43,,Singapore,1/31/2020 19:00,16,,
+44,,Vietnam,1/31/2020 19:00,2,,
+45,,France,1/31/2020 19:00,6,,
+46,,Nepal,1/31/2020 19:00,1,,
+47,,Malaysia,1/31/2020 19:00,8,,
+48,Ontario,Canada,1/31/2020 19:00,2,,
+49,British Columbia,Canada,1/31/2020 19:00,1,,
+50,,Cambodia,1/31/2020 19:00,1,,
+51,,Sri Lanka,1/31/2020 19:00,1,,
+52,New South Wales,Australia,1/31/2020 19:00,4,,2
+53,Victoria,Australia,1/31/2020 19:00,2,,
+54,Queensland,Australia,1/31/2020 19:00,3,,
+55,Bavaria,Germany,1/31/2020 19:00,7,,
+56,,Finland,1/31/2020 19:00,1,,
+57,,United Arab Emirates,1/31/2020 19:00,4,,
+58,,Philippines,1/31/2020 19:00,1,,
+59,,India,1/31/2020 19:00,1,,
+60,,Italy,1/31/2020 19:00,2,,
+61,,Sweden,1/31/2020 19:00,1,,
+62,,Russia,1/31/2020 19:00,2,,
+63,,Spain,1/31/2020 19:00,1,,
+64,,UK,1/31/2020 19:00,2,,
+TOTAL,TOTAL,,,11.374,,
