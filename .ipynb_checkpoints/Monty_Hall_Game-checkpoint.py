@@ -5,7 +5,7 @@ import numpy as np
 def monty():
     '''
     the Monty Hall game is a game show game where three doors are available to choose.
-    Behind one door is a prize (a car) and the other two are empty
+    Behind one door is a price (a car) and the other two are empty
 
     The player chooses a door. The show host, Monty, then opens an unchosen door.
     This door is revealed to be empty. Monty then offers the player an opportunity
@@ -58,5 +58,3 @@ def monty():
 
     assert isinstance(choice,int) #input must be an integer
     assert isinstance(choice2,str) #input must be a string
-
-monty()
