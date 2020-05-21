@@ -1,4 +1,4 @@
-# BrainStation-Journey
+# Learning Python
 Documenting the beginning of my programming &amp; data science journey.
 
-None of the projects pushed to this repo are assignments we worked on. Instead, they are personal projects undertaken to practice and illustrate what we've learned.
+The Jupyter notebooks and .py scripts in this repo are some snippits of code where I practice base python and object oriented programming principles with some numpy & pandas thrown in. It will be occasionally updated occasionally.
